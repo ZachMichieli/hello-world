@@ -1,5 +1,10 @@
 # hello-world
-This is so I can maybe understand a little more about this coder gibberish
 
+
+
+
+We put in something here to hopefully find a difference when trying to pull info over.
+why did this not work last time
 
 So this is what codes look like? I guess does this make me a five lines of code kind of guy?
+
